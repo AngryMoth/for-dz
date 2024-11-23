@@ -1,0 +1,4 @@
+pomidorki
+ribki
+lisichki
+jitiki
